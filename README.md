@@ -33,3 +33,13 @@ public class PrintString implements Print{
     }
 }
 ~~~
+
+최종결과는 아래와 같이 cl1의 클래스로딩 결과를 보여줌
+~~~
+mycl1 is about to load class PrintA
+mycl1 loaded PrintA
+mycl2 is about to load class PrintB
+mycl2 loaded PrintB
+
+결과 : AAAAAAAAAAAAAA
+~~~
